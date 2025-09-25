@@ -4,4 +4,4 @@ Please refer to the following materials to better understand the Seq2Seq, Attent
 
 2. How do Transformers work?: https://huggingface.co/learn/llm-course/en/chapter1/4
 
-3. Some code to explore: `./attention.md`, `./transformer1.md`, `./transformer1.md`   
+3. Some code to explore: `./attention.ipynb`, `./transformer1.ipynb`, `./transformer2.ipynb`   
