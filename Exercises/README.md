@@ -13,6 +13,7 @@
 - [What is a neural network?](https://www.ibm.com/think/topics/neural-networks)
     - [Dive into Deep Learning](https://www.d2l.ai/index.html)
     - [Multilayer perceptron](https://www.d2l.ai/chapter_multilayer-perceptrons/index.html)
+    - [Building makemore](https://www.youtube.com/watch?v=TCH_1BHY58I)
 
 ## Lab session 3
 - [What are word embeddings?](https://www.ibm.com/think/topics/word-embeddings)
