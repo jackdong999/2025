@@ -19,9 +19,9 @@ You are also of course welcome to install any additional package to the aforemen
 
 ## Timeline
 **Exam date:** Thu 23 Oct 2025   
-**Exam start:** 10:00 (CET/UTC+1h)   
-**Exam end:** 13:00 (CET/UTC+1h)   
-**Submission end:** 13:15 (CET/UTC+1h)  
+**Exam start:** 10:00 (CET/UTC+2h)   
+**Exam end:** 13:00 (CET/UTC+2h)   
+**Submission end:** 13:15 (CET/UTC+2h)  
 **Later submissions will not be accepted!**
 
 ## High-level Guidelines and Rules
