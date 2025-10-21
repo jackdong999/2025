@@ -46,7 +46,7 @@ You are also of course welcome to install any additional package to the aforemen
 18. Remember, this is not a homework assignment -- **no teamwork allowed!**
 
 ## Submission
-* You will have until 13:15 (strict deadline) to turn in your submission. **Late submissions will not be accepted.**
+* You will have until 13:00 (strict deadline) to turn in your submission. **Late submissions will not be accepted.**
 
 * Your file has to be named as "YourAUID.ipynb". For example, if your AU ID is 'AU123456', please name your file as '123456.ipynb'.   
    **Note: We won't grade your exam if the file is not properly named; thus, be extra careful in this regard.**   
